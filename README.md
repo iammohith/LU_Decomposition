@@ -1,4 +1,4 @@
-# LU Decomposition in MATLAB
+# LU Decomposition
 
 ## Overview
 
