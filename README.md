@@ -62,12 +62,12 @@ disp(U);
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/iammohith/LU_Decomposition.git
+   git clone https://github.com/iammohith/LU_Decomposition-in-MATLAB.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd LU_Decomposition
+   cd LU_Decomposition-in-MATLAB
    ```
 
 3. **Open the `LU_Decomposition.m` script in MATLAB:**
